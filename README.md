@@ -1,4 +1,4 @@
-# Responsive Chips Website
+#  Chips Website
 - Responsive Chips Website Design Using HTML CSS And JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
